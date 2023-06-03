@@ -1,0 +1,24 @@
+    body{
+        background-color: #FFF8DE;
+    }
+
+    table{
+        width: 100%;
+        height: 200px;
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: center;
+        background-color: #F2D8D8;
+        }
+        
+    th, td{
+            border: 2px solid #5C8984 ;
+            border-collapse: collapse;
+            }
+    
+    img{
+        align-items: center;
+        width: 350px; 
+        height: auto; 
+        }
+    
